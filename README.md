@@ -1,2 +1,2 @@
 # mongodb_tutorial
-A script to connecting to mongodb compass
+A script to connect to mongodb compass
